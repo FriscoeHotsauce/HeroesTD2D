@@ -7,6 +7,7 @@ public class CrudeFollow : MonoBehaviour
     public Transform[] waypoints;
 
     public float moveSpeed = 2f;
+    public float distanceToNextWaypoint = 0f;
 
     private int waypointIndex = 0;
 
@@ -41,7 +42,8 @@ public class CrudeFollow : MonoBehaviour
             // If Enemy reaches position of waypoint he walked towards
             // then waypointIndex is increased by 1
             // and Enemy starts to walk to the next waypoint
-            if (transform.position == waypoints[waypointIndex].transform.position)
+            distanceToNextWaypoint = Vector2.Distance(transform.position, waypoints[waypointIndex].transform.position);
+            if (distanceToNextWaypoint < 0.01f)
             {
                 waypointIndex += 1;
             }
