@@ -11,12 +11,14 @@ public class MoveAlongPath : MonoBehaviour
     private int nextWaypointIndex = 0;
     private bool blocked;
     private GameObject blockingUnit;
+    private DirectionalAnimationController dac;
     
     
     void Start()
     {
         //teleport to the first waypoint on start (or don't I don't really like that)
         // transform.position = waypoints[0].transform.position;
+        dac = gameObject.GetComponent<DirectionalAnimationController>();
     }
 
     void Update()
@@ -49,6 +51,7 @@ public class MoveAlongPath : MonoBehaviour
     public void unBlock(){
         blocked = false;
         blockingUnit = null;
+        dac.unBlock();
     }
 
     public bool isBlocked(){
