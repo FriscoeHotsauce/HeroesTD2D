@@ -132,6 +132,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barbarian (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6751879863142736991, guid: d8dad316e0894a94394aafcb771f25b0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6751879863142736988, guid: d8dad316e0894a94394aafcb771f25b0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4097,12 +4102,12 @@ PrefabInstance:
     - target: {fileID: 6751879863142736988, guid: d8dad316e0894a94394aafcb771f25b0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.8
+      value: 7.69
       objectReference: {fileID: 0}
     - target: {fileID: 6751879863142736988, guid: d8dad316e0894a94394aafcb771f25b0,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.42
+      value: -3.46
       objectReference: {fileID: 0}
     - target: {fileID: 6751879863142736988, guid: d8dad316e0894a94394aafcb771f25b0,
         type: 3}
@@ -4239,5 +4244,65 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[17]
       value: 
       objectReference: {fileID: 199446181}
+    - target: {fileID: 6751879863142736984, guid: d8dad316e0894a94394aafcb771f25b0,
+        type: 3}
+      propertyPath: attackLeftAnimationName
+      value: barbarian_attack_left
+      objectReference: {fileID: 0}
+    - target: {fileID: 6751879863142736984, guid: d8dad316e0894a94394aafcb771f25b0,
+        type: 3}
+      propertyPath: attackRightAnimationName
+      value: barbarian_attack_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 6751879863142736984, guid: d8dad316e0894a94394aafcb771f25b0,
+        type: 3}
+      propertyPath: attackUpAnimationName
+      value: barbarian_attack_up
+      objectReference: {fileID: 0}
+    - target: {fileID: 6751879863142736984, guid: d8dad316e0894a94394aafcb771f25b0,
+        type: 3}
+      propertyPath: attackDownAnimationName
+      value: barbarian_attack_down
+      objectReference: {fileID: 0}
+    - target: {fileID: 6751879863142736984, guid: d8dad316e0894a94394aafcb771f25b0,
+        type: 3}
+      propertyPath: dieLeftAnimationName
+      value: barbarian_die_left
+      objectReference: {fileID: 0}
+    - target: {fileID: 6751879863142736984, guid: d8dad316e0894a94394aafcb771f25b0,
+        type: 3}
+      propertyPath: dieRightAnimationName
+      value: barbarian_die_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 6751879863142736984, guid: d8dad316e0894a94394aafcb771f25b0,
+        type: 3}
+      propertyPath: dieUpAnimationName
+      value: barbarian_die_up
+      objectReference: {fileID: 0}
+    - target: {fileID: 6751879863142736984, guid: d8dad316e0894a94394aafcb771f25b0,
+        type: 3}
+      propertyPath: dieDownAnimationName
+      value: barbarian_die_down
+      objectReference: {fileID: 0}
+    - target: {fileID: 6751879863142736984, guid: d8dad316e0894a94394aafcb771f25b0,
+        type: 3}
+      propertyPath: moveLeftAnimationName
+      value: barbarian_walk_left
+      objectReference: {fileID: 0}
+    - target: {fileID: 6751879863142736984, guid: d8dad316e0894a94394aafcb771f25b0,
+        type: 3}
+      propertyPath: moveRightAnimationName
+      value: barbarian_walk_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 6751879863142736984, guid: d8dad316e0894a94394aafcb771f25b0,
+        type: 3}
+      propertyPath: moveUpAnimationName
+      value: barbarian_walk_up
+      objectReference: {fileID: 0}
+    - target: {fileID: 6751879863142736984, guid: d8dad316e0894a94394aafcb771f25b0,
+        type: 3}
+      propertyPath: moveDownAnimationName
+      value: barbarian_walk_down
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d8dad316e0894a94394aafcb771f25b0, type: 3}

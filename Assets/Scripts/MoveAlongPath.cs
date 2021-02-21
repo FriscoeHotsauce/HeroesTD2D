@@ -51,7 +51,6 @@ public class MoveAlongPath : MonoBehaviour
     public void unBlock(){
         blocked = false;
         blockingUnit = null;
-        dac.unBlock();
     }
 
     public bool isBlocked(){

@@ -6,78 +6,132 @@ using UnityEngine;
 public class DirectionalAnimationController : MonoBehaviour
 {
     public enum direction { left, right, up, down}
+    public enum state { moving, idle, dying }
 
-    public string leftAnimationName;
-    public string rightAnimationName;
-    public string upAnimationName;
-    public string downAnimationName;
+    public string moveLeftAnimationName;
+    public string moveRightAnimationName;
+    public string moveUpAnimationName;
+    public string moveDownAnimationName;
     public string idleLeftAnimationName;
     public string idleRightAnimationName;
     public string idleUpAnimationName;
     public string idleDownAnimationName;
+    public string attackLeftAnimationName;
+    public string attackRightAnimationName;
+    public string attackUpAnimationName;
+    public string attackDownAnimationName;
+    public string dieLeftAnimationName;
+    public string dieRightAnimationName;
+    public string dieUpAnimationName;
+    public string dieDownAnimationName;
+
 
     public Animator animator;
-    public MoveAlongPath map;
+    public UnitController unitController;
 
     private Vector3 previousPosition;
     private direction previousDirection;
-    private bool transitionToBlocked;
+    private state previousState;
 
     // Start is called before the first frame update
     void Start()
     {
         previousDirection = direction.down;
         previousPosition = transform.position;
+        previousState = state.idle;
         animator = gameObject.GetComponent<Animator>();
-        map = gameObject.GetComponent<MoveAlongPath>();
+        unitController = gameObject.GetComponent<UnitController>();
     }
 
     // Update is called once per frame
     void Update()
     {
         direction deltaDirection = determineDirectionOfMotion();
+        state currentState = determineCurrentState();
+        bool stateChanged = currentState != previousState;
+        bool directionChanged = previousDirection != deltaDirection;
 
-        if(map.isBlocked() && !transitionToBlocked){
-            switch(previousDirection){
-                case direction.left:
-                    animator.Play(idleLeftAnimationName);
-                    break;
-                case direction.right:
-                    animator.Play(idleRightAnimationName);
-                    break;
-                case direction.up:
-                    animator.Play(idleUpAnimationName);
-                    break;
-                case direction.down:
-                    animator.Play(idleDownAnimationName);
-                    break;
+        if(stateChanged || directionChanged){
+            Debug.Log("StateChange: "+ stateChanged +" | "+"DirectionChange: "+directionChanged);
+            if(unitController.isMoving()){
+                Debug.Log("Moving "+ deltaDirection);
+                switch(deltaDirection){
+                    case direction.up:
+                        animator.Play(moveUpAnimationName);
+                        break;
+                    case direction.down:
+                        animator.Play(moveDownAnimationName);
+                        break;
+                    case direction.left:
+                        animator.Play(moveLeftAnimationName);
+                        break;
+                    case direction.right:
+                        animator.Play(moveRightAnimationName);
+                        break;
+                }
+            } else {
+                Debug.Log("Idling "+previousDirection);
+                switch(previousDirection){
+                    case direction.up:
+                        animator.Play(idleUpAnimationName);
+                        break;
+                    case direction.down:
+                        animator.Play(idleDownAnimationName);
+                        break;
+                    case direction.left:
+                        animator.Play(idleLeftAnimationName);
+                        break;
+                    case direction.right:
+                        animator.Play(idleRightAnimationName);
+                        break;
+                }
             }
-            transitionToBlocked = true;
-        } else if(deltaDirection == previousDirection){
-            return;
-        } else {
-            Debug.Log("Direction changed! - "+deltaDirection);
-            switch(deltaDirection){
-                case direction.left:
-                    animator.Play(leftAnimationName);
-                    break;
-                case direction.right:
-                    animator.Play(rightAnimationName);
-                    break;
-                case direction.up:
-                    animator.Play(upAnimationName);
-                    break;
-                case direction.down:
-                    animator.Play(downAnimationName);
-                    break;
-            }
-            previousDirection = deltaDirection;
         }
-        
+        previousDirection = deltaDirection;
+        previousState = currentState;
     }
 
-    public void unBlock(){
-        transitionToBlocked = false;
+    private state determineCurrentState(){
+        if(unitController.isMoving()){
+            return state.moving;
+        } else {
+            return state.idle;
+        }
+    }
+
+    public void attack(){
+        switch(previousDirection){
+            case direction.left:
+                animator.Play(attackLeftAnimationName);
+                break;
+            case direction.right:
+                animator.Play(attackRightAnimationName);
+                break;
+            case direction.up:
+                animator.Play(attackUpAnimationName);
+                break;
+            case direction.down:
+                animator.Play(attackDownAnimationName);
+                break;
+
+        }
+    }
+
+    public void die(){
+        switch(previousDirection){
+            case direction.left:
+                animator.Play(dieLeftAnimationName);
+                break;
+            case direction.right:
+                animator.Play(dieRightAnimationName);
+                break;
+            case direction.up:
+                animator.Play(dieUpAnimationName);
+                break;
+            case direction.down:
+                animator.Play(dieDownAnimationName);
+                break;
+        }
     }
 
     private direction determineDirectionOfMotion(){

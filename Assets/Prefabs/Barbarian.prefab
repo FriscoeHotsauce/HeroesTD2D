@@ -177,13 +177,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2406d4b47a9a4ff4890b29899263fad3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  leftAnimationName: barbarian_walk_left
-  rightAnimationName: barbarian_walk_right
-  upAnimationName: barbarian_walk_up
-  downAnimationName: barbarian_walk_down
+  moveLeftAnimationName: barbarian_walk_left
+  moveRightAnimationName: barbarian_walk_right
+  moveUpAnimationName: barbarian_walk_up
+  moveDownAnimationName: barbarian_walk_down
   idleLeftAnimationName: barbarian_idle_left
   idleRightAnimationName: barbarian_idle_right
   idleUpAnimationName: barbarian_idle_up
   idleDownAnimationName: barbarian_idle_down
+  attackLeftAnimationName: barbarian_attack_left
+  attackRightAnimationName: barbarian_attack_right
+  attackUpAnimationName: barbarian_attack_up
+  attackDownAnimationName: barbarian_attack_down
+  dieLeftAnimationName: barbarian_die_left
+  dieRightAnimationName: barbarian_die_right
+  dieUpAnimationName: barbarian_die_up
+  dieDownAnimationName: barbarian_die_down
   animator: {fileID: 0}
-  map: {fileID: 0}

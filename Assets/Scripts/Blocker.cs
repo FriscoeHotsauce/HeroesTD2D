@@ -5,6 +5,7 @@ using UnityEngine;
 public class Blocker : MonoBehaviour, UnitController
 {
     public List<GameObject> blockedUnits = new List<GameObject>();
+    public DirectionalAnimationController directionalAnimationController;
     public int blockableUnits = 1;
     public int numberOfAttacks = 1;
     public int damage = 2;
@@ -14,7 +15,7 @@ public class Blocker : MonoBehaviour, UnitController
 
     void Start()
     {
-        
+        directionalAnimationController = gameObject.GetComponent<DirectionalAnimationController>();
     }
 
     void Update()
@@ -71,6 +72,7 @@ public class Blocker : MonoBehaviour, UnitController
             }
 
         }
+        directionalAnimationController.attack();
         blockedUnits = survivingEnemies;
     }
 
@@ -79,6 +81,10 @@ public class Blocker : MonoBehaviour, UnitController
             unit.GetComponent<MoveAlongPath>().unBlock();
         }
         Destroy(gameObject);
+    }
+
+    public bool isMoving(){
+        return false;
     }
     
 }
