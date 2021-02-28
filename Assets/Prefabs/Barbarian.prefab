@@ -137,6 +137,8 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   moveSpeed: 1.5
+  damage: 1
+  attackCooldown: 5
 --- !u!114 &6751879863142736986
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -152,7 +154,6 @@ MonoBehaviour:
   currentHealth: 0
   maxHealth: 5
   showHealth: 0
-  enemyController: {fileID: 0}
 --- !u!114 &6751879863142736985
 MonoBehaviour:
   m_ObjectHideFlags: 0

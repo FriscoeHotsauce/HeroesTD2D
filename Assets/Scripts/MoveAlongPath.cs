@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -7,25 +7,33 @@ public class MoveAlongPath : MonoBehaviour
 
     public List<Transform> waypoints;
     public float moveSpeed = 2f;
+    public int damage = 1;
+    public float attackCooldown = 0.5f;
     private float distanceToNextWaypoint = 0f;
     private int nextWaypointIndex = 0;
     private bool blocked;
     private GameObject blockingUnit;
     private DirectionalAnimationController dac;
+    private float nextAttackAt = 0f;
     
     
-    void Start()
-    {
+    void Start(){
         //teleport to the first waypoint on start (or don't I don't really like that)
         // transform.position = waypoints[0].transform.position;
         dac = gameObject.GetComponent<DirectionalAnimationController>();
     }
 
-    void Update()
-    {
+    void Update(){
         if(!blocked){
             checkAndUpdateWaypoints();
             moveToNextWaypoint();
+        } else {
+            if(Time.time > nextAttackAt){
+                dac.attack();
+                HealthController healthController = blockingUnit.GetComponent<HealthController>();
+                healthController.dealDamage(damage);
+                nextAttackAt = Time.time + attackCooldown;
+            }
         }
     }
 
@@ -41,6 +49,10 @@ public class MoveAlongPath : MonoBehaviour
                 despawnAndDealDamage();
             }
         }
+    }
+
+    private void attackBlocker(){
+
     }
 
     public void block(GameObject blocker){

@@ -52,9 +52,9 @@ public class DirectionalAnimationController : MonoBehaviour
         bool directionChanged = previousDirection != deltaDirection;
 
         if(stateChanged || directionChanged){
-            Debug.Log("StateChange: "+ stateChanged +" | "+"DirectionChange: "+directionChanged);
+            // Debug.Log("StateChange: "+ stateChanged +" | "+"DirectionChange: "+directionChanged);
             if(unitController.isMoving()){
-                Debug.Log("Moving "+ deltaDirection);
+                // Debug.Log("Moving "+ deltaDirection);
                 switch(deltaDirection){
                     case direction.up:
                         animator.Play(moveUpAnimationName);
@@ -70,7 +70,7 @@ public class DirectionalAnimationController : MonoBehaviour
                         break;
                 }
             } else {
-                Debug.Log("Idling "+previousDirection);
+                // Debug.Log("Idling "+previousDirection);
                 switch(previousDirection){
                     case direction.up:
                         animator.Play(idleUpAnimationName);
