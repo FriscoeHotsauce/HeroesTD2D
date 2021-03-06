@@ -1,12 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class HealthController : MonoBehaviour
 {
   public int currentHealth;
   public int maxHealth = 100;
   public bool showHealth;
+  public Slider healthFill;
   public UnitController unitController;
   void Start()
   {
@@ -29,6 +31,7 @@ public class HealthController : MonoBehaviour
   //if damage is fatal, return true; otherwise false
   public bool dealDamage(int damage){
     currentHealth = currentHealth - damage;
+    setHealthFill();
     if (currentHealth <= 0){
       unitController.die();
       return true;
@@ -38,5 +41,11 @@ public class HealthController : MonoBehaviour
 
   public int getCurrentHealth(){
     return currentHealth;
+  }
+
+  private void setHealthFill(){
+    float setValue = (float) currentHealth / maxHealth;
+    Debug.Log("Set health to "+ setValue);
+    healthFill.value = setValue;
   }
 }

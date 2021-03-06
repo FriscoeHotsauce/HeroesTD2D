@@ -30,7 +30,7 @@ public class DirectionalAnimationController : MonoBehaviour
     public UnitController unitController;
 
     private Vector3 previousPosition;
-    private direction previousDirection;
+    public direction previousDirection;
     private state previousState;
 
     // Start is called before the first frame update
@@ -140,14 +140,14 @@ public class DirectionalAnimationController : MonoBehaviour
         direction deltaDirection = direction.down;
         if(Math.Abs(positionDelta.x) > Math.Abs(positionDelta.y)){
             //the x axis has a greater magnitute, we are moving primarily left or right
-            if(positionDelta.x >= 0){
+            if(positionDelta.x > 0){
                 deltaDirection = direction.right;
             } else {
                 deltaDirection = direction.left;
             }
         } else {
             //the y axis has a greater magnitude, we are moving primarily up or down
-            if(positionDelta.y >= 0){
+            if(positionDelta.y > 0){
                 deltaDirection = direction.up;
             } else {
                 deltaDirection = direction.down;
