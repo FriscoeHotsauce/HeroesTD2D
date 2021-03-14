@@ -49,4 +49,8 @@ public class CrudeFollow : MonoBehaviour
             }
         }
     }
+
+    public void setWaypoints(Transform[] waypoints){
+        this.waypoints = waypoints;
+    }
 }

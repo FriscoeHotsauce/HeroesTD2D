@@ -92,7 +92,7 @@ public class DirectionalAnimationController : MonoBehaviour
     }
 
     private state determineCurrentState(){
-        if(unitController.isMoving()){
+        if(gameObject.activeSelf && unitController.isMoving()){
             return state.moving;
         } else {
             return state.idle;

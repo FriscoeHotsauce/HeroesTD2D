@@ -45,7 +45,6 @@ public class HealthController : MonoBehaviour
 
   private void setHealthFill(){
     float setValue = (float) currentHealth / maxHealth;
-    Debug.Log("Set health to "+ setValue);
     healthFill.value = setValue;
   }
 }

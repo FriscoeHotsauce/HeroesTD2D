@@ -1,0 +1,2472 @@
+fileFormatVersion: 2
+guid: fe35c755e3e754e428b8be954014a14d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7482379951378303157
+    second: 60FPS_AC2Q023_Star_Aura_0
+  - first:
+      213: 5356295143575343964
+    second: 60FPS_AC2Q023_Star_Aura_1
+  - first:
+      213: -3346374051583537063
+    second: 60FPS_AC2Q023_Star_Aura_2
+  - first:
+      213: 5067503844885748875
+    second: 60FPS_AC2Q023_Star_Aura_3
+  - first:
+      213: -6081622691389475310
+    second: 60FPS_AC2Q023_Star_Aura_4
+  - first:
+      213: -8153257117025817047
+    second: 60FPS_AC2Q023_Star_Aura_5
+  - first:
+      213: 517514001264214427
+    second: 60FPS_AC2Q023_Star_Aura_6
+  - first:
+      213: 8882803317376293952
+    second: 60FPS_AC2Q023_Star_Aura_7
+  - first:
+      213: -6375493722053844941
+    second: 60FPS_AC2Q023_Star_Aura_8
+  - first:
+      213: 1074642720157584468
+    second: 60FPS_AC2Q023_Star_Aura_9
+  - first:
+      213: 8754561058191403356
+    second: 60FPS_AC2Q023_Star_Aura_10
+  - first:
+      213: -568611878742138758
+    second: 60FPS_AC2Q023_Star_Aura_11
+  - first:
+      213: 6385511834975923092
+    second: 60FPS_AC2Q023_Star_Aura_12
+  - first:
+      213: 656053441727172666
+    second: 60FPS_AC2Q023_Star_Aura_13
+  - first:
+      213: -4687581308724306200
+    second: 60FPS_AC2Q023_Star_Aura_14
+  - first:
+      213: 6130427009523051570
+    second: 60FPS_AC2Q023_Star_Aura_15
+  - first:
+      213: 6660531806713208933
+    second: 60FPS_AC2Q023_Star_Aura_16
+  - first:
+      213: 3189049151131382683
+    second: 60FPS_AC2Q023_Star_Aura_17
+  - first:
+      213: 1136686513439334984
+    second: 60FPS_AC2Q023_Star_Aura_18
+  - first:
+      213: -2457345194733856505
+    second: 60FPS_AC2Q023_Star_Aura_19
+  - first:
+      213: 5325021507820221277
+    second: 60FPS_AC2Q023_Star_Aura_20
+  - first:
+      213: -5122108095220620654
+    second: 60FPS_AC2Q023_Star_Aura_21
+  - first:
+      213: 6864888500769411679
+    second: 60FPS_AC2Q023_Star_Aura_22
+  - first:
+      213: -7001324671500875792
+    second: 60FPS_AC2Q023_Star_Aura_23
+  - first:
+      213: 7850432365923906690
+    second: 60FPS_AC2Q023_Star_Aura_24
+  - first:
+      213: 8520586234807368779
+    second: 60FPS_AC2Q023_Star_Aura_25
+  - first:
+      213: -6372965109205313990
+    second: 60FPS_AC2Q023_Star_Aura_26
+  - first:
+      213: -8559598583759221029
+    second: 60FPS_AC2Q023_Star_Aura_27
+  - first:
+      213: -8768122555189172809
+    second: 60FPS_AC2Q023_Star_Aura_28
+  - first:
+      213: -110321128130158578
+    second: 60FPS_AC2Q023_Star_Aura_29
+  - first:
+      213: -2319830040531672765
+    second: 60FPS_AC2Q023_Star_Aura_30
+  - first:
+      213: 5940522492128985241
+    second: 60FPS_AC2Q023_Star_Aura_31
+  - first:
+      213: 2867772340990807844
+    second: 60FPS_AC2Q023_Star_Aura_32
+  - first:
+      213: -1507142444447188744
+    second: 60FPS_AC2Q023_Star_Aura_33
+  - first:
+      213: -4961029180407976653
+    second: 60FPS_AC2Q023_Star_Aura_34
+  - first:
+      213: -1213770799082113369
+    second: 60FPS_AC2Q023_Star_Aura_35
+  - first:
+      213: 5068291567729937911
+    second: 60FPS_AC2Q023_Star_Aura_36
+  - first:
+      213: -740570766002931560
+    second: 60FPS_AC2Q023_Star_Aura_37
+  - first:
+      213: -9109171203415832588
+    second: 60FPS_AC2Q023_Star_Aura_38
+  - first:
+      213: 3871230346143764430
+    second: 60FPS_AC2Q023_Star_Aura_39
+  - first:
+      213: 5666078578521561966
+    second: 60FPS_AC2Q023_Star_Aura_40
+  - first:
+      213: -7752292597292198534
+    second: 60FPS_AC2Q023_Star_Aura_41
+  - first:
+      213: 1689127329822663248
+    second: 60FPS_AC2Q023_Star_Aura_42
+  - first:
+      213: 5147393277392599196
+    second: 60FPS_AC2Q023_Star_Aura_43
+  - first:
+      213: -6297446417901944349
+    second: 60FPS_AC2Q023_Star_Aura_44
+  - first:
+      213: 6866943722780930660
+    second: 60FPS_AC2Q023_Star_Aura_45
+  - first:
+      213: 4465862371824413498
+    second: 60FPS_AC2Q023_Star_Aura_46
+  - first:
+      213: 1935106213437390277
+    second: 60FPS_AC2Q023_Star_Aura_47
+  - first:
+      213: -1399231280160619447
+    second: 60FPS_AC2Q023_Star_Aura_48
+  - first:
+      213: -2955867080175776368
+    second: 60FPS_AC2Q023_Star_Aura_49
+  - first:
+      213: 7182592501993173795
+    second: 60FPS_AC2Q023_Star_Aura_50
+  - first:
+      213: -2291143451105737089
+    second: 60FPS_AC2Q023_Star_Aura_51
+  - first:
+      213: 8982776998388729787
+    second: 60FPS_AC2Q023_Star_Aura_52
+  - first:
+      213: -2627149820572229166
+    second: 60FPS_AC2Q023_Star_Aura_53
+  - first:
+      213: -2425320415972985229
+    second: 60FPS_AC2Q023_Star_Aura_54
+  - first:
+      213: 5975605469626351078
+    second: 60FPS_AC2Q023_Star_Aura_55
+  - first:
+      213: -7482215384922765725
+    second: 60FPS_AC2Q023_Star_Aura_56
+  - first:
+      213: 7362443464996751569
+    second: 60FPS_AC2Q023_Star_Aura_57
+  - first:
+      213: 1324050498222752774
+    second: 60FPS_AC2Q023_Star_Aura_58
+  - first:
+      213: 6387410447499539242
+    second: 60FPS_AC2Q023_Star_Aura_59
+  - first:
+      213: -7333948208921738581
+    second: 60FPS_AC2Q023_Star_Aura_60
+  - first:
+      213: 6192112684737552876
+    second: 60FPS_AC2Q023_Star_Aura_61
+  - first:
+      213: -7606786357395672141
+    second: 60FPS_AC2Q023_Star_Aura_62
+  - first:
+      213: -579414574917155423
+    second: 60FPS_AC2Q023_Star_Aura_63
+  - first:
+      213: -1168736007987552305
+    second: 60FPS_AC2Q023_Star_Aura_64
+  - first:
+      213: -6295449981071400883
+    second: 60FPS_AC2Q023_Star_Aura_65
+  - first:
+      213: -2209712919606783737
+    second: 60FPS_AC2Q023_Star_Aura_66
+  - first:
+      213: -8659956389417665939
+    second: 60FPS_AC2Q023_Star_Aura_67
+  - first:
+      213: 4867719207503115793
+    second: 60FPS_AC2Q023_Star_Aura_68
+  - first:
+      213: 2516147141317560743
+    second: 60FPS_AC2Q023_Star_Aura_69
+  - first:
+      213: -902798275352385381
+    second: 60FPS_AC2Q023_Star_Aura_70
+  - first:
+      213: 5817874857699800487
+    second: 60FPS_AC2Q023_Star_Aura_71
+  - first:
+      213: -6411430050387568715
+    second: 60FPS_AC2Q023_Star_Aura_72
+  - first:
+      213: 2032977703065104569
+    second: 60FPS_AC2Q023_Star_Aura_73
+  - first:
+      213: -6095384340965324605
+    second: 60FPS_AC2Q023_Star_Aura_74
+  - first:
+      213: -2701397324327806276
+    second: 60FPS_AC2Q023_Star_Aura_75
+  - first:
+      213: 5057245161111158948
+    second: 60FPS_AC2Q023_Star_Aura_76
+  - first:
+      213: 3395419709675037878
+    second: 60FPS_AC2Q023_Star_Aura_77
+  - first:
+      213: 1261070441436156812
+    second: 60FPS_AC2Q023_Star_Aura_78
+  - first:
+      213: -4380644214361797818
+    second: 60FPS_AC2Q023_Star_Aura_79
+  - first:
+      213: 5379315575289221078
+    second: 60FPS_AC2Q023_Star_Aura_80
+  - first:
+      213: 3226674228246453341
+    second: 60FPS_AC2Q023_Star_Aura_81
+  - first:
+      213: -6981664577619489813
+    second: 60FPS_AC2Q023_Star_Aura_82
+  - first:
+      213: 1854884823936336044
+    second: 60FPS_AC2Q023_Star_Aura_83
+  - first:
+      213: 2582370666087735791
+    second: 60FPS_AC2Q023_Star_Aura_84
+  - first:
+      213: 7589892137439472392
+    second: 60FPS_AC2Q023_Star_Aura_85
+  - first:
+      213: 5893596555781555508
+    second: 60FPS_AC2Q023_Star_Aura_86
+  - first:
+      213: 8970533979654719948
+    second: 60FPS_AC2Q023_Star_Aura_87
+  - first:
+      213: 574530127346193559
+    second: 60FPS_AC2Q023_Star_Aura_88
+  - first:
+      213: 1358717137258695892
+    second: 60FPS_AC2Q023_Star_Aura_89
+  - first:
+      213: 4157146778517766338
+    second: 60FPS_AC2Q023_Star_Aura_90
+  - first:
+      213: 6772758530633079225
+    second: 60FPS_AC2Q023_Star_Aura_91
+  - first:
+      213: -7640604150256282072
+    second: 60FPS_AC2Q023_Star_Aura_92
+  - first:
+      213: 2709997972715617849
+    second: 60FPS_AC2Q023_Star_Aura_93
+  - first:
+      213: -5943075787533836141
+    second: 60FPS_AC2Q023_Star_Aura_94
+  - first:
+      213: -8628784030574992919
+    second: 60FPS_AC2Q023_Star_Aura_95
+  - first:
+      213: 1270076871902213147
+    second: 60FPS_AC2Q023_Star_Aura_96
+  - first:
+      213: 5113617609001169048
+    second: 60FPS_AC2Q023_Star_Aura_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b888642ce0c6d760800000000000000
+      internalID: 7482379951378303157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5355f0ed02655a40800000000000000
+      internalID: 5356295143575343964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95057c9a78a4f81d0800000000000000
+      internalID: -3346374051583537063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c575ce5e3635640800000000000000
+      internalID: 5067503844885748875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21676cd426cb99ba0800000000000000
+      internalID: -6081622691389475310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e204199dfc9de80800000000000000
+      internalID: -8153257117025817047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9105a30e349e2700800000000000000
+      internalID: 517514001264214427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c10e5dd8e064b70800000000000000
+      internalID: 8882803317376293952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3306f351d32b587a0800000000000000
+      internalID: -6375493722053844941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cc37b3cd5e9ee00800000000000000
+      internalID: 1074642720157584468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5967f516e27e7970800000000000000
+      internalID: 8754561058191403356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70e1884282eb18f0800000000000000
+      internalID: -568611878742138758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49beac89e25ed9850800000000000000
+      internalID: 6385511834975923092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3012db1125ca1900800000000000000
+      internalID: 656053441727172666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee1ab5b2ad52feb0800000000000000
+      internalID: -4687581308724306200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ce41082e6a31550800000000000000
+      internalID: 6130427009523051570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560e452a366fe6c50800000000000000
+      internalID: 6660531806713208933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9372708e47c14c20800000000000000
+      internalID: 3189049151131382683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842678e8c5256cf00800000000000000
+      internalID: 1136686513439334984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7091061a091c5edd0800000000000000
+      internalID: -2457345194733856505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5370f229d646e940800000000000000
+      internalID: 5325021507820221277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292e83353dd9ae8b0800000000000000
+      internalID: -5122108095220620654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52560f38bbf44f50800000000000000
+      internalID: 6864888500769411679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7030e4e4c46de90800000000000000
+      internalID: -7001324671500875792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284bf18b4a652fc60800000000000000
+      internalID: 7850432365923906690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cb6cb59043f3670800000000000000
+      internalID: 8520586234807368779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36dbd3affdae87a0800000000000000
+      internalID: -6372965109205313990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde48135072363980800000000000000
+      internalID: -8559598583759221029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5ebd6ddfe515680800000000000000
+      internalID: -8768122555189172809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00e49ab48f087ef0800000000000000
+      internalID: -110321128130158578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34164de7ede4ecfd0800000000000000
+      internalID: -2319830040531672765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990019b7bb9f07250800000000000000
+      internalID: 5940522492128985241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_32
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f827100cf5cc720800000000000000
+      internalID: 2867772340990807844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8bfc49eed851be0800000000000000
+      internalID: -1507142444447188744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d6f6dbe32e62bb0800000000000000
+      internalID: -4961029180407976653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6f7f993e1d72fe0800000000000000
+      internalID: -1213770799082113369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd86a0f350365640800000000000000
+      internalID: 5068291567729937911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8983b51efc6f8b5f0800000000000000
+      internalID: -740570766002931560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f78e2e8d09b59180800000000000000
+      internalID: -9109171203415832588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf8c993d7f59b530800000000000000
+      internalID: 3871230346143764430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b5a3e6274f1ae40800000000000000
+      internalID: 5666078578521561966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a751287c4f25a6490800000000000000
+      internalID: -7752292597292198534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052eb7a6b5cf07710800000000000000
+      internalID: 1689127329822663248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98383ae9e63f6740800000000000000
+      internalID: 5147393277392599196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e106e429d9fa98a0800000000000000
+      internalID: -6297446417901944349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462b4f8eee84c4f50800000000000000
+      internalID: 6866943722780930660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ba0608a2ee9fd30800000000000000
+      internalID: 4465862371824413498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd369639d0eada10800000000000000
+      internalID: 1935106213437390277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944496b609ee49ce0800000000000000
+      internalID: -1399231280160619447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d0ada2d86aaf6d0800000000000000
+      internalID: -2955867080175776368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323ffa753d1bda360800000000000000
+      internalID: 7182592501993173795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7641639b293430e0800000000000000
+      internalID: -2291143451105737089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_52
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb78285561c39ac70800000000000000
+      internalID: 8982776998388729787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_53
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1af0d482d7a8bd0800000000000000
+      internalID: -2627149820572229166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3767d6b7ee7875ed0800000000000000
+      internalID: -2425320415972985229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb5f6b38d9de250800000000000000
+      internalID: 5975605469626351078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36647b8ffb4d92890800000000000000
+      internalID: -7482215384922765725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d80702d257ac2660800000000000000
+      internalID: 7362443464996751569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6040f3bb9e8ff5210800000000000000
+      internalID: 1324050498222752774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2334d5c5f3a4a850800000000000000
+      internalID: 6387410447499539242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba28b1ef5f4983a90800000000000000
+      internalID: -7333948208921738581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1e8f6fdadcee550800000000000000
+      internalID: 6192112684737552876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_62
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3b4254c144f6690800000000000000
+      internalID: -7606786357395672141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a50164938185f7f0800000000000000
+      internalID: -579414574917155423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf91bffac0d7cfe0800000000000000
+      internalID: -1168736007987552305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40eff0d89112a8a0800000000000000
+      internalID: -6295449981071400883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7011f33aec58551e0800000000000000
+      internalID: -2209712919606783737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_67
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ab266db87a1d780800000000000000
+      internalID: -8659956389417665939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116b19534dc9d8340800000000000000
+      internalID: 4867719207503115793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a909d07e762be220800000000000000
+      internalID: 2516147141317560743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9829c570cd9873f0800000000000000
+      internalID: -902798275352385381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a57fd0db5e3db050800000000000000
+      internalID: 5817874857699800487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_72
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b75260a6560607a0800000000000000
+      internalID: -6411430050387568715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b03c732376963c10800000000000000
+      internalID: 2032977703065104569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c888439c38d86ba0800000000000000
+      internalID: -6095384340965324605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba10463275b28ad0800000000000000
+      internalID: -2701397324327806276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0081afda1fe2640800000000000000
+      internalID: 5057245161111158948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_77
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b46a8a7c34fe1f20800000000000000
+      internalID: 3395419709675037878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c831c8292e8308110800000000000000
+      internalID: 1261070441436156812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b4893fb43d433c0800000000000000
+      internalID: -4380644214361797818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df07dfc30b27aa40800000000000000
+      internalID: 5379315575289221078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c998c6d1377cc20800000000000000
+      internalID: 3226674228246453341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_82
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb001e9e052c1f90800000000000000
+      internalID: -6981664577619489813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_83
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca00df57befddb910800000000000000
+      internalID: 1854884823936336044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe16c86507c66d320800000000000000
+      internalID: 2582370666087735791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b2c9f9fa6b45960800000000000000
+      internalID: 7589892137439472392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43543d487d24ac150800000000000000
+      internalID: 5893596555781555508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_87
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc904e6602dbd7c70800000000000000
+      internalID: 8970533979654719948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_88
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794da395b1429f700800000000000000
+      internalID: 574530127346193559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc4a8c99022bd210800000000000000
+      internalID: 1358717137258695892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c006b438f621b930800000000000000
+      internalID: 4157146778517766338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b991effffbadfd50800000000000000
+      internalID: 6772758530633079225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826599ac10f17f590800000000000000
+      internalID: -7640604150256282072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_93
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e3eb94cc8db9520800000000000000
+      internalID: 2709997972715617849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39022da1f04f58da0800000000000000
+      internalID: -5943075787533836141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1a30634a6604880800000000000000
+      internalID: -8628784030574992919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14bb239f2830a110800000000000000
+      internalID: 1270076871902213147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_AC2Q023_Star_Aura_97
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89072bd4f1837f640800000000000000
+      internalID: 5113617609001169048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

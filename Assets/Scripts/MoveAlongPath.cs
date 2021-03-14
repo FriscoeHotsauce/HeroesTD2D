@@ -73,6 +73,10 @@ public class MoveAlongPath : MonoBehaviour
         return blockingUnit;
     }
 
+    public void setWaypoints(List<Transform> waypoints){
+        this.waypoints = waypoints;
+    }
+
     private void moveToNextWaypoint(){
         transform.position = Vector2.MoveTowards(transform.position,
             waypoints[nextWaypointIndex].transform.position, moveSpeed * Time.deltaTime);
